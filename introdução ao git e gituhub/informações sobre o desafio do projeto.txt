@@ -1,8 +1,9 @@
-Criar um repositório referente ao desenvolvimento do aprendizado e 
-organização sobre as pastas earquivos do curso introdutório.
+Descrição do Desafio
+Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
-1- Assistir Aulas na plataforma da Dio BootCamp Santander
-2- Analisar os materiais de apoio sobre o curso
-3- Praticar os exercicíos referentes ao curso
-4- Pesquisa e tira duvidas no Discord e Fórum
-5- Praticar com novos exercícios e principalmente alterações e commitis
+Slides
+A apresentação utilizada neste conteúdo está disponível AQUI
+
+Com isso, você terá acesso a todos os slides e links apresentados durante as aulas.
+
+Bons estudos 😉
