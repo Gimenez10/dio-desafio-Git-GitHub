@@ -1,0 +1,8 @@
+Criar um repositório referente ao desenvolvimento do aprendizado e 
+organização sobre as pastas earquivos do curso introdutório.
+
+1- Assistir Aulas na plataforma da Dio BootCamp Santander
+2- Analisar os materiais de apoio sobre o curso
+3- Praticar os exercicíos referentes ao curso
+4- Pesquisa e tira duvidas no Discord e Fórum
+5- Praticar com novos exercícios e principalmente alterações e commitis
